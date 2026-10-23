@@ -15,10 +15,10 @@ Antes de entrar em TI, trabalhei por mais de 3 anos em rotinas administrativas, 
 
 ## Tecnologias
 
-**Back-end:** Java, Spring Boot, Spring Data JPA, API REST
-**Front-end:** Angular, HTML, CSS
-**Banco de dados:** SQL, PostgreSQL, MySQL, Firebase
-**Qualidade e ferramentas:** JUnit, Postman, Git e GitHub, Scrum, Figma
+**Back-end:** Java, Spring Boot, Spring Data JPA, API REST.
+**Front-end:** Angular, HTML, CSS.
+**Banco de dados:** SQL, PostgreSQL, MySQL, Firebase.
+**Qualidade e ferramentas:** JUnit, Postman, Git e GitHub, Scrum, Figma.
 
 ## Estudando agora
 
