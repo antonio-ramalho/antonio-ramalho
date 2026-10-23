@@ -10,8 +10,8 @@ Antes de entrar em TI, trabalhei por mais de 3 anos em rotinas administrativas, 
 
 ## Projetos em destaque
 
-- **[CooManager]([LINK-DO-REPOSITORIO](https://github.com/antonio-ramalho/coo-manager.git))**: sistema de gestão para cooperativas, criado sozinho a partir de problemas reais da cooperativa onde trabalho. Centraliza vendas, editais e relatórios e valida regras de negócio. Spring Boot, Angular, PostgreSQL, JUnit.
-- **[Grative]([LINK-DO-REPOSITORIO](https://github.com/antonio-ramalho/Grative-Project.git))**: plataforma de doações que conecta OSCs, doadores e empresas, com Trust Score. Projeto acadêmico da PUCPR em que liderei uma equipe de 6 estudantes usando Scrum. PHP, MySQL, Firebase.
+- **[CooManager](https://github.com/antonio-ramalho/coo-manager.git)**: sistema de gestão para cooperativas, criado sozinho a partir de problemas reais da cooperativa onde trabalho. Centraliza vendas, editais e relatórios e valida regras de negócio. Spring Boot, Angular, PostgreSQL, JUnit.
+- **[Grative](https://github.com/antonio-ramalho/Grative-Project.git)**: plataforma de doações que conecta OSCs, doadores e empresas, com Trust Score. Projeto acadêmico da PUCPR em que liderei uma equipe de 6 estudantes usando Scrum. PHP, MySQL, Firebase.
 
 ## Tecnologias
 
